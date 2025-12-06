@@ -1,10 +1,8 @@
-Here is a clean, simple README section that includes:
 
 1. **Short project description**
 2. **Basic architecture overview**
 3. **Instructions to run**
 
-All in plain Markdown (no emojis).
 
 ---
 
